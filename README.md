@@ -21,6 +21,8 @@ The course develops strong foundations in:
 These projects emphasize clean code, efficiency, and low-level understanding
 that directly support embedded systems, firmware, and systems programming.
 
+Files with the same name are from the same lab project, and may include many types of files. 
+
 ## Technologies & Tools
 ### Languages
 - C (primary language)
